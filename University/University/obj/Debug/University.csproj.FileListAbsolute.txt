@@ -1,1 +1,6 @@
 c:\users\hp\documents\visual studio 2015\Projects\University\University\bin\Debug\University.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\University\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\University\University\bin\Debug\University.exe
+c:\users\hp\documents\visual studio 2015\Projects\University\University\bin\Debug\University.pdb
+c:\users\hp\documents\visual studio 2015\Projects\University\University\obj\Debug\University.exe
+c:\users\hp\documents\visual studio 2015\Projects\University\University\obj\Debug\University.pdb

@@ -9,6 +9,11 @@ namespace University
     class Run
     {
         private University university;
-        
+        private Menu menu;
+
+        public Run()
+        {
+            this.menu = new Menu(this.university);
+        }
     }
 }

@@ -10,6 +10,7 @@ namespace University
     {
         static void Main(string[] args)
         {
+            Run run = new Run();
         }
     }
 }

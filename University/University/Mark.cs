@@ -40,7 +40,7 @@ namespace University
         public Mark(int _subjectId, int _mark)
         {
             this.SubjectId = _subjectId;
-            this.Mark = _mark;
+            this.Mark_ = _mark;
         }
     }
 }
