@@ -39,8 +39,12 @@ namespace University
                 case "2":
                     Console.WriteLine("ok2");
                     break;
+                case "3":
+                    break;
                 
             }
         }
+
+
     }
 }

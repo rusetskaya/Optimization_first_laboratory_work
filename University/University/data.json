@@ -1,0 +1,285 @@
+{
+  "university": {
+    "id": 0,
+    "faculties": [
+      {
+        "id": 0,
+        "groups": [
+          {
+            "id": 0,
+            "students": [
+              {
+                "id": 0,
+                "subjects": [
+                  {
+                    "id": 0,
+                    "name": "Math"
+                  },
+                  {
+                    "id": 1,
+                    "name": "Sociology"
+                  },
+                  {
+                    "id": 2,
+                    "name": "Programming"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Test Automation"
+                  }
+
+                ],
+                "marks": [
+                  {
+                    "subjectId": 1,
+                    "mark": 9
+                  },
+                  {
+                    "subjectId": 1,
+                    "mark": 10
+                  },
+                  {
+                    "subjectId": 0,
+                    "mark": 9
+                  }
+                ]
+              },
+              {
+                "id": 1,
+                "subjects": [
+                  {
+                    "id": 0,
+                    "name": "Math"
+                  },
+                  {
+                    "id": 1,
+                    "name": "Sociology"
+                  },
+                  {
+                    "id": 2,
+                    "name": "Programming"
+                  }
+
+                ],
+                "marks": [
+                  {
+                    "subjectId": 2,
+                    "mark": 9
+                  },
+                  {
+                    "subjectId": 1,
+                    "mark": 10
+                  },
+                  {
+                    "subjectId": 0,
+                    "mark": 7
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "students": [
+              {
+                "id": 2,
+                "subjects": [
+                  {
+                    "id": 4,
+                    "name": "Algebra"
+                  },
+                  {
+                    "id": 5,
+                    "name": "Geometry"
+                  }
+
+                ],
+                "marks": [
+                  {
+                    "subjectId": 4,
+                    "mark": 9
+                  },
+                  {
+                    "subjectId": 5,
+                    "mark": 7
+                  },
+                  {
+                    "subjectId": 4,
+                    "mark": 6
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "subjects": [
+                  {
+                    "id": 4,
+                    "name": "Algebra"
+                  },
+                  {
+                    "id": 5,
+                    "name": "Geometry"
+                  },
+                  {
+                    "id": 6,
+                    "name": "Economy"
+                  }
+
+                ],
+                "marks": [
+                  {
+                    "subjectId": 6,
+                    "mark": 9
+                  },
+                  {
+                    "subjectId": 5,
+                    "mark": 10
+                  },
+                  {
+                    "subjectId": 6,
+                    "mark": 7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "groups": [
+          {
+            "id": 0,
+            "students": [
+              {
+                "id": 4,
+                "subjects": [
+                  {
+                    "id": 7,
+                    "name": "Biology"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Chemistry"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Physics"
+                  }
+
+                ],
+                "marks": [
+                  {
+                    "subjectId": 7,
+                    "mark": 9
+                  },
+                  {
+                    "subjectId": 7,
+                    "mark": 10
+                  },
+                  {
+                    "subjectId": 8,
+                    "mark": 9
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "subjects": [
+                  {
+                    "id": 7,
+                    "name": "Biology"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Chemistry"
+                  },
+                  {
+                    "id": 2,
+                    "name": "Programming"
+                  }
+
+                ],
+                "marks": [
+                  {
+                    "subjectId": 2,
+                    "mark": 9
+                  },
+                  {
+                    "subjectId": 7,
+                    "mark": 10
+                  },
+                  {
+                    "subjectId": 8,
+                    "mark": 7
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "students": [
+              {
+                "id": 6,
+                "subjects": [
+                  {
+                    "id": 7,
+                    "name": "Biology"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Chemistry"
+                  }
+
+                ],
+                "marks": [
+                  {
+                    "subjectId": 8,
+                    "mark": 9
+                  },
+                  {
+                    "subjectId": 7,
+                    "mark": 7
+                  },
+                  {
+                    "subjectId": 8,
+                    "mark": 6
+                  }
+                ]
+              },
+              {
+                "id": 7,
+                "subjects": [
+                  {
+                    "id": 7,
+                    "name": "Biology"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Chemistry"
+                  }
+
+                ],
+                "marks": [
+                  {
+                    "subjectId": 7,
+                    "mark": 9
+                  },
+                  {
+                    "subjectId": 7,
+                    "mark": 10
+                  },
+                  {
+                    "subjectId": 7,
+                    "mark": 7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

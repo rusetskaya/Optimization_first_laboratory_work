@@ -4,3 +4,6 @@ c:\users\hp\documents\visual studio 2015\Projects\University\University\bin\Debu
 c:\users\hp\documents\visual studio 2015\Projects\University\University\bin\Debug\University.pdb
 c:\users\hp\documents\visual studio 2015\Projects\University\University\obj\Debug\University.exe
 c:\users\hp\documents\visual studio 2015\Projects\University\University\obj\Debug\University.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Optimization_first_laboratory_work\University\University\bin\Debug\University.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Optimization_first_laboratory_work\University\University\obj\Debug\University.exe
+C:\Users\HP\Documents\Visual Studio 2015\Optimization_first_laboratory_work\University\University\obj\Debug\University.pdb
